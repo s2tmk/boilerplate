@@ -7,3 +7,8 @@
   font-family: "Aoharu Marker";
   src: url("./aoharu-marker-mini.otf");
 }
+
+@font-face {
+  font-family: "Hannari Mincho";
+  src: url("./HannariMincho-Regular.otf");
+}
