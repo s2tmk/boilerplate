@@ -12,3 +12,8 @@
   font-family: "Hannari Mincho";
   src: url("./HannariMincho-Regular.otf");
 }
+
+@font-face {
+  font-family: "Kallem";
+  src: url("./Kallem.otf");
+}
