@@ -9,10 +9,13 @@
   "dependencies": {
     "@emotion/babel-plugin": "^11.9.2",
     "@emotion/react": "^11.9.0",
+    "dayjs": "^1.11.3",
+    "html2canvas": "^1.4.1",
     "next": "latest",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-dropzone": "^14.2.1"
+    "react-dropzone": "^14.2.1",
+    "recoil": "^0.7.3"
   },
   "devDependencies": {
     "@types/node": "^17.0.31",
